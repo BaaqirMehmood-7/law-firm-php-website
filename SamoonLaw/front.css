@@ -1,0 +1,43 @@
+body {
+    background-color: aliceblue;
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  .Top-list2 a:hover {
+    background-color: #04aa6d;
+    color: white;
+  }
+  
+  .image img {
+    width: 100%;
+  }
+  
+  .image2 img {
+    width: 100%;
+    height: 20%;
+  }
+  
+  
+  
+  .announcement {
+    background-color: #266470;
+    line-height: 35px;
+    color: #ffff;
+    font-size: large;
+    margin-top: 20px;
+    padding-top: 10px;
+  }
+  .events {
+    background-color: #266470;
+    margin-top: 60px;
+    padding-bottom: 30px;
+  }
+
+  .events h1 {
+    text-align: center;
+    color: #ffff;
+    padding-top: 30px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
